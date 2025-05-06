@@ -1,1 +1,2 @@
 This program uses weather.gov API to detect weather based upon grid points!
+RUN writeToDates.java to run the whole program!
