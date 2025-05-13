@@ -75,7 +75,7 @@ public class weatherApiManager {
 			for (String line; (line = weatherReader.readLine()) != null;) {
 				//soo we will go to the very first temperature which is the one we want and its in f
 				if(line.contains("temperature")) {
-		        	TemperatureFer = line.strip().replaceAll(",", "").replace("\"temperature\":","").strip();
+		        		TemperatureFer = line.strip().replaceAll(",", "").replace("\"temperature\":","").strip();
 		        	break;					
 		        }
 		    }
