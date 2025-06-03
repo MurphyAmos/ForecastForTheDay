@@ -15,20 +15,6 @@ ForecastForTheDay is a Java application that retrieves daily weather information
 - Java Development Kit (JDK) 8 or higher
 - Internet connection to access the weather.gov API
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/MurphyAmos/ForecastForTheDay.git
-
-# Navigate to the project directory
-cd ForecastForTheDay
-
-# Compile the Java files
-javac writeToDates.java weatherApiManager.java
-
-# Run the application
-java writeToDates
 Usage
 Upon execution, the application will:
 
@@ -43,3 +29,18 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 License
 This project is licensed under the MIT License.
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/MurphyAmos/ForecastForTheDay.git
+
+# Navigate to the project directory
+cd ForecastForTheDay
+
+# Compile the Java files
+javac writeToDates.java weatherApiManager.java
+
+# Run the application
+java writeToDates
