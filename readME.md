@@ -15,14 +15,16 @@ ForecastForTheDay is a Java application that retrieves daily weather information
 - Java Development Kit (JDK) 8 or higher
 - Internet connection to access the weather.gov API
 
-Usage
-Upon execution, the application will:
 
-Retrieve the current weather data for the specified location
 
-Write the weather information to a local file
+### Usage
 
-Repeat this process every 24 hours
+- Upon execution, the application will:
+- Retrieve the current weather data for the specified location
+
+- Write the weather information to a local file
+
+- Repeat this process every 24 hours
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
