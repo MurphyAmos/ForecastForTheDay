@@ -29,3 +29,17 @@ javac writeToDates.java weatherApiManager.java
 
 # Run the application
 java writeToDates
+Usage
+Upon execution, the application will:
+
+Retrieve the current weather data for the specified location
+
+Write the weather information to a local file
+
+Repeat this process every 24 hours
+
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+License
+This project is licensed under the MIT License.
