@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.awt.Desktop;  
-
+//////RUN THIS FIRST
 public class writeToDates {
 	//file and its location should never change ngl WHY WOULD IT CHANGE 
 	static File dateFileHolder = new File("Dates.txt"); static String fileLocation = dateFileHolder.getAbsolutePath();	
